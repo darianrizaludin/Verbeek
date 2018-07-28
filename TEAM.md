@@ -16,9 +16,9 @@
 
 ## Infrastruktur
 
-- [Darian Rizaludin](https://github.com/darianrizaludin) (Koordinator)
 - [Sabar Suwarsono](https://github.com/soewarsono)
 - [Samsul Ma'arif](https://github.com/samsulmaarif)
+- [Darian Rizaludin](https://github.com/darianrizaludin)
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung)
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys)
 
